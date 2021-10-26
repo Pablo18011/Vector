@@ -21,6 +21,10 @@ With only a slight increase in weight.The disadvantages, more difficult to cut t
 
 ![](Images/VectorBP700x417.png)
 
+# Performance
+
+It's fast and agile, shallow glide angle with no tip stall. Max flight time 25mins on a 4s lipo.
+
 # Specifications
 
 Airframe weight is 260gms (approx), with electronics and 4s 1500mAh is 590gms.
