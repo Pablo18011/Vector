@@ -1,5 +1,7 @@
 # Vector
-RC Correx polypropylene plane, based on the Flite Test Goblin.
+The vector is an RC polypropylene plane I have designed and built from sheets 
+of 3 mm fluted polypropylene board (Correx).It’s based on the Flite Test FT Goblin.
+
 
 
 
