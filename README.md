@@ -23,7 +23,7 @@ With only a slight increase in weight.The disadvantages, more difficult to cut t
 
 # Performance
 
-It's fast and agile, shallow glide angle with no tip stall. Max flight time 25mins on a 4s lipo.
+It's [fast](https://www.youtube.com/watch?v=4V25RjghhR8&t=13s) and agile, shallow glide angle with no tip stall. Max flight time 25mins on a 4s lipo.
 
 # Specifications
 
