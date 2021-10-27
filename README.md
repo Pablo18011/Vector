@@ -1,6 +1,6 @@
 # Vector
 The vector is an FPV RC polypropylene plane I have designed and built from sheets 
-of 3 mm fluted polypropylene board (Correx).It’s based on the Flite Test FT Goblin.
+of 3 & 4mm fluted polypropylene board (Correx).It’s based on the Flite Test FT Goblin.
 
 
 
