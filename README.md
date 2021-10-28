@@ -56,7 +56,7 @@ Menace RC Stubby Raptor RHCP 1.09db 62mm Short Antenna
 
 I started with the Flite Test Goblin plans for the wing, I printed these out and used “Spray & Stick” temporary glue to mount the to a piece of 3mm Correx sheet. I cut this out as a one-piece wing.
 I modified the spars and assembled the wing with CA glue, similar to the Flite Test build video.
-I then designed and built a fuselage out of 3mm Correx. I did some test flights and after many crashes! I worked out the C G for my plane. I then used  [“Design Spark Mechanical”](https://www.rs-online.com/designspark/mechanical-software)free CAD software and plotted the build. I then used DSM to improve and refine my build, rebuilding the fuselage. I posted YouTube videos of the build process here.
+I then designed and built a fuselage out of 3mm Correx. I did some test flights and after many crashes! I worked out the C G for my plane. I then used  [“Design Spark Mechanical”](https://www.rs-online.com/designspark/mechanical-software)free CAD software and plotted the build. I then used DSM to improve and refine my design, rebuilding the fuselage. I posted YouTube videos of the build process here.
 
 # Motivation
 
