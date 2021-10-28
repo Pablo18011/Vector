@@ -52,3 +52,17 @@ FrSky R9MM 868MHz
 Menace RC Stubby Raptor RHCP 1.09db 62mm Short Antenna 
 8M Ublox M8N GPS Module
 
+# Build
+
+I started with the Flite Test Goblin plans for the wing, I printed these out and used “Spray & Stick” temporary glue to mount the to a piece of 3mm Correx sheet. I cut this out as a one-piece wing.
+I modified the spars and assembled the wing with CA glue, similar to the Flite Test build video.
+I then designed and built a fuselage out of 3mm Correx. I did some test flights and after many crashes! I worked out the C G for my plane. I then used “Design Spark Mechanical” free CAD software and plotted the build. I then used DSM to improve and refine my build, rebuilding the fuselage. I posted YouTube videos of the build process here.
+
+# Motivation
+
+I have been building and flying FPV quadcopters for many years now and like many I progressed into RC planes, starting with Flite Test foam board builds.
+I wanted to build an FPV wing style plane similar to a Drak and have the crash resilience of a quadcopter! I chose the FT Goblin and fluted polypropylene board as the mixture fitted my requirements. I wasn’t overly concerned about the weight, more the survivability of the plane.
+As it turned out, the weight comes in very close to my quads and not that much heavier than the FT Goblin, with the advantage of being a lot stronger and surviving many a poor landing!
+It’s also a relatively inexpensive plane to build, Fluted boards are very cheap and like foamboard 
+builds, if you break a part, you can just print the plans and build another.
+I have also learned a lot of new skills in the process, how to use CAD software being one of them.
