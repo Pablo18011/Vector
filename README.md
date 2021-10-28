@@ -16,14 +16,14 @@ Where I have used hot glue.
 ![](Images/VectorRP700x250.png)
 
 The advantages of fluted plastic are increased strength and durability compared to foam board, 
-With only a slight increase in weight.The disadvantages, more difficult to cut than foam board and more planning.
+With only a slight increase in weight.The disadvantages are that it requires more planning and is more difficult to cut compared to foam board.
 
 
 ![](Images/VectorBP700x417.png)
 
 # Performance
 
-It's [fast](https://www.youtube.com/watch?v=4V25RjghhR8&t=13s) and agile, shallow glide angle with no tip stall. Max flight time 25mins on a 4s lipo.
+It's [fast](https://www.youtube.com/watch?v=4V25RjghhR8&t=13s) and agile, has a shallow glide angle with no tip stall. Max flight time 25mins on a 4s lipo.
 
 # Specifications
 
