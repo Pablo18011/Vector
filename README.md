@@ -67,3 +67,6 @@ It’s also a relatively inexpensive plane to build, Fluted boards are very chea
 builds, if you break a part, you can just print the plans and build another.
 I have also learned a lot of new skills in the process, how to use CAD software being one of them.
 
+# Improvements
+
+This is going to be an ongoing project, I would like to try different styles of winglets and fit a HD camera for video. I could also do some more tinkering to improve flight performance?
