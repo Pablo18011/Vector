@@ -1,13 +1,13 @@
 # Vector
 The Vector is a radio controlled first person view polypropylene plane I have designed and built from sheets 
-of 3 & 4mm fluted polypropylene board (Correx).It’s based on the [Flite Test FT Goblin.](https://www.youtube.com/watch?v=2-Z3un-X16U) 
+of 3 & 4mm fluted polypropylene board (Correx).It’s based on the [Flite Test Goblin.](https://www.youtube.com/watch?v=2-Z3un-X16U) 
 
 
 
 
 ![](Images/VectorSP700x372.png)
 
-The fuselage is my own design and more streamlined than the original, the wing is made
+The fuselage is my own design and more streamlined than the Goblin, the wing is made
 from one piece and modified from the original.
 It’s put together using CA glue apart from fuselage to wing, nose cover, VTX and engine mount
 Where I have used hot glue. 
