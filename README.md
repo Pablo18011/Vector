@@ -60,7 +60,7 @@ I then designed and built a fuselage out of 3mm Correx. I did some test flights 
 
 # Motivation
 
-I have been building and flying FPV quadcopters for many years now and like many I progressed into RC planes, starting with Flite Test foam board builds.
+I have been building and flying FPV quadcopters for a few years now and like many I progressed into RC planes, starting with Flite Test foam board builds.
 I wanted to build an FPV wing style plane similar to a Drak and have the crash resilience of a quadcopter! I chose the FT Goblin and fluted polypropylene board as the mixture fitted my requirements. I wasn’t overly concerned about the weight, more the survivability of the plane.
 As it turned out, the weight comes in very close to my quads and not that much heavier than the FT Goblin, with the advantage of being a lot stronger and surviving many a poor landing!
 It’s also a relatively inexpensive plane to build, Fluted boards are very cheap and like foamboard 
