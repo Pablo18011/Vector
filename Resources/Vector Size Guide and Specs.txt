@@ -1,0 +1,41 @@
+Vector Specs
+
+My Vector draws 22 Amps full throttle 1500 3s lipo and 5amps mid throttle.
+Weight 260g no electronics, servo's or motor.
+With all electronics and no lipo 410g.
+With a 3s 1500mAh = 547g.
+Electronics and hardware = 410 - 260 = 150g.
+
+Fuselage Perimeter = 1366.3589mm Area = 19073.3531 mm²
+
+12° throws with servo rate set to 80% and 40% expo.
+Still to much movement in elevons pitch will stall, need to reduce
+this mechanically my fitting full size control horns.
+My FC is set 2.5° from level this lifts the wing to give a higher
+angle of attack.This leeds to nose being very high.
+Fuse II has a wing incidence of 2.3° (ish) and I have lowered the
+nose so it is more even, this should leed to the plane fuse at
+near horizontal or maybe 1° higher at the nose?(should fly near level).This may also help at higher speed, but will definitley
+need lower throws on servos 6mm maybe?
+Also as far as I can tell motor is now 1mm off centre line of aerofoil and motor mount is adjusted to 90° to this line.
+
+Wing Parameters
+Wing span = 760mm
+Root chord = 215mm
+Tip chord = 145mm
+Sweep degree = 0
+
+Flying Wing calculator V2
+CG calc @20% allround flyer = 36.96mm back leed edge
+Wing area = 138550
+MAC Distance = 166mm
+MAC length = 182.27mm
+
+
+7 test flights, 1 and 2 crash due to wrong elevon set up(high five test!) 31/5/21 moving CG further back is improving flight characteristics in manual mode.
+Still issue with bobbing in manual mode below 6 amps unable to keep nose down, this goes when you pitch up?
+2/6/21 Flight 8 result! CG 36mm back balanced 3s lipo take off and flight all in acro, started to get pitch oscillations at 800mAh no voltage sag? usually
+when throttle low and below 5 amps?
+
+FC wing mount front 5mm back 4mm.
+
