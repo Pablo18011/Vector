@@ -1,0 +1,43 @@
+SERVO AUTOTRIM
+
+In flight adjustment of servo midpoint for straight flight
+
+The purpose of this mode is to set new midpoints for servos 2 to 5. Makes sure you assign these servo numbers to your control surfaces or they will not be trimmed. If you have another servo (e.g. a servo gimbal) assigned to to servos 2 to 5, then this servo will be trimmed.
+
+This is so when switching into manual mode the plane will fly straight, its also to help the PIFF controller know where the plane is expected to fly straight.
+
+How to use:
+ 1. This is intended to use in air.
+ 2. Fly straight, choose what mode that suites you best. (manual, angle or acro)
+ 3. Enable SERVO AUTOTRIM mode, and keep flying straight for 2 seconds. After 2 seconds it will set new midpoints based on average servo position during those 2 seconds.
+    If you're are NOT happy with new midpoints disable SERVO AUTOTRIM mode and it will revert back to old settings. If you want to keep new midpoints keep SERVO AUTOTRIM turned on, land aircraft and disarm. New midpoints will be saved.
+
+AUTOTUNE
+
+AUTOTUNE is only available for fixed wing
+
+For detailed description go to https://github.com/iNavFlight/inav/wiki/Tune-INAV-PIFF-controller-for-fixedwing
+
+AUTOTUNE will attempt to tune roll and pitch P, I and FF gains on a fixed-wing airplane.
+
+Autotune will monitor behavior of the airplane when you fly it and adjust P, I and FF gains to reach optimal performance.
+
+How to use:
+
+Take off. Any manual flight mode will do, ACRO is the best option. Enable AUTOTUNE mode. Do hard maneuvers on each axis separately. For roll - bank hard left/hard right. For pitch - fast climb, steep dive. Initially you probably will notice very soft response - make sure your flying field is big enough for slow turns.
+
+The more maneuvers you will do - the better results AUTOTUNE will be able to reach.
+
+AUTOTUNE will adjust gains constantly but it will take a snapshot of current gains every 5 seconds. When you disable AUTOTUNE gains from last snapshot will be restored. If you turn AUTOTUNE on and off before 5 seconds elapse - PIFF gains won't be changed.
+
+Currently AUTOTUNE don't save gains to EEPROM - you have to save manually, using a stick combo, sticks to bottom outside corners and hold 2secs.( disarmed, before unpluging lipo, check in OSD next boot if saved)
+
+
+AutoLaunch video how to.
+https://www.youtube.com/watch?v=zqAbAYtLHSg&list=PLYsWjANuAm4rGbp3o3HaEMYcTqoucxXVl&index=13
+
+Servo and aileron set up.
+https://www.youtube.com/watch?v=53jbVcKATnc
+
+Strix Goblin Set up
+https://www.youtube.com/watch?v=c81wH8n60qM
