@@ -1,6 +1,6 @@
 # Vector
 The Vector is a radio controlled first person view polypropylene/PVC plane I have designed and built from sheets 
-of 3 & 4mm fluted polypropylene/PVC board (Correx).It’s based on the [Flite Test Goblin.](https://www.youtube.com/watch?v=2-Z3un-X16U) 
+of 3 & 4mm fluted plastic sheets(Correx).It’s based on the [Flite Test Goblin.](https://www.youtube.com/watch?v=2-Z3un-X16U) 
 
 
 
