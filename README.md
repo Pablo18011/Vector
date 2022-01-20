@@ -16,7 +16,8 @@ Where I have used hot glue.
 ![](Images/VectorRP700x250.png)
 
 The advantages of fluted plastic are increased strength and durability compared to foam board, 
-With only a slight increase in weight.The disadvantages are that it requires more planning and is more difficult to cut compared to foam board.
+With only a slight increase in weight.The disadvantages are that it requires more planning,is difficult to cut compared to foam board, polypropylene
+can be difficult to glue and PVC can crack with impacts.
 
 
 ![](Images/VectorBP700x417.png)
