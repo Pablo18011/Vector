@@ -72,3 +72,6 @@ I have also learned a lot of new skills in the process, how to use CAD software 
 
 This is going to be an ongoing project, I would like to try different styles of winglets and fit a HD camera for video. I could also do some more tinkering to improve flight performance?
 
+# Update 20/01/22
+
+I have now designed a new fuselage and Caddex Loris 4k camera tray, I have completed some test flights and I will include the new version with some photos and video soon...
