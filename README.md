@@ -1,6 +1,6 @@
 # Vector
-The Vector is a radio controlled first person view polypropylene plane I have designed and built from sheets 
-of 3 & 4mm fluted polypropylene board (Correx).It’s based on the [Flite Test Goblin.](https://www.youtube.com/watch?v=2-Z3un-X16U) 
+The Vector is a radio controlled first person view polypropylene/PVC plane I have designed and built from sheets 
+of 3 & 4mm fluted polypropylene/PVC board (Correx).It’s based on the [Flite Test Goblin.](https://www.youtube.com/watch?v=2-Z3un-X16U) 
 
 
 
@@ -9,7 +9,7 @@ of 3 & 4mm fluted polypropylene board (Correx).It’s based on the [Flite Test G
 
 The fuselage is my own design and more streamlined than the Goblin, the wing is made
 from one piece and modified from the original.
-It’s put together using CA glue apart from fuselage to wing, nose cover, vertical stabilizers and engine mount
+It’s put together using polypropylene glue/CA glue apart from fuselage to wing, nose cover, vertical stabilizers and engine mount
 Where I have used hot glue. 
 
 
@@ -55,7 +55,7 @@ Menace RC Stubby Raptor RHCP 1.09db 62mm Short Antenna
 # Build
 
 I started with the Flite Test Goblin plans for the wing, I printed them out and used “Spray & Stick” temporary glue to mount to a piece of 3mm Correx sheet. I cut this out as a one-piece wing.
-I modified the spars and assembled the wing with CA glue, similar to the Flite Test build video.
+I modified the spars and assembled the wing with polypropylene glue/CA glue, similar to the Flite Test build video.
 I then designed and built a fuselage out of 3mm Correx. I did some test flights and after many crashes! I worked out the C G for my plane. I then used  [“Design Spark Mechanical”](https://www.rs-online.com/designspark/mechanical-software) free CAD software and plotted the build. I then used DSM to improve and refine my design.I rebuilt the fuselage and posted YouTube videos of the build process.
 I have provided the plans to print and a resources folder along with individual component photos and weights.
 # Motivation
