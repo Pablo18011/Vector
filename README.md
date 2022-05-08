@@ -75,3 +75,10 @@ This is going to be an ongoing project, I would like to try different styles of 
 # Update 20/01/22
 
 I have now designed a new fuselage and Caddx Loris 4k camera tray, I have completed some test flights and I will include the new version with some photos and video soon...
+
+# Update 08/05/22
+
+I have up loaded the Caddx Loris version in "Prints CLV" folder, I made changers to the fuselage making it wider at the nose and a new nose cone cover.
+If you can still get hold of a Caddx Loris, I have also included the carbon fiber cage plan.
+This will now allow the Caddx Loris DVR to be mounted to the nose, I have improved the plans and the wing spars.
+I will also design a new nose cone cover for a single 19mm x 19mm FPV camera when I get the time.....
