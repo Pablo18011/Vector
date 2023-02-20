@@ -84,3 +84,13 @@ This will now allow the Caddx Loris DVR to be mounted to the nose, I have improv
 I will also design a new nose cone cover for a single 19mm x 19mm FPV camera when I get the time.....
 
 https://youtu.be/opmcstnDswc
+
+# Update 20/02/2023
+I have installed M3*6*0.5mm brass washers between the motor and the mount, 2 washers at the top and 1 washer either side, no washer on the bottom. 
+This results in the motor now angled down by 3.6°
+This has improved cruise control and less drag as less the elevon is now required to counter act the excessive pitch up I encountered at higher throttle.
+Port Elevon is now 6mm down and Starboard Elevon is level.
+I now have Auto launch angle at 26°, throttle is still 55% = 1550μs. 
+I could reduce this to 1500μs or 1400μs, as my Vector climb rate performance is still very high.
+Both camera trays have been tested(Caddex loris only adding an extra 15g)with these settings
+
