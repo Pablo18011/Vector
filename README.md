@@ -86,7 +86,7 @@ I will also design a new nose cone cover for a single 19mm x 19mm FPV camera whe
 https://youtu.be/opmcstnDswc
 
 # Update 20/02/2023
-I have installed M3*6*0.5mm brass washers between the motor and the mount, 2 washers at the top and 1 washer either side, no washer on the bottom. 
+I have installed M3x6x0.5mm brass washers between the motor and the mount, 2 washers at the top and 1 washer either side, no washer on the bottom. 
 This results in the motor now angled down by 3.6°
 This has improved cruise control and less drag as less the elevon is now required to counter act the excessive pitch up I encountered at higher throttle.
 Port Elevon is now 6mm down and Starboard Elevon is level.
