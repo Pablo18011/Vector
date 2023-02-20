@@ -89,11 +89,18 @@ https://youtu.be/opmcstnDswc
 I have installed M3x6x0.5mm brass washers between the motor and the mount, 2 washers at the top and 1 washer either side, no washer on the bottom. 
 This results in the motor now angled down by 3.6°
 
-![](Vector/Images/MotorShims3.6°.png) 
+![](Images/MotorShims3.6°II.png) 
 
 This has improved cruise control and less drag as less the elevon is now required to counter act the excessive pitch up I encountered at higher throttle.
-Port Elevon is now 6mm down and Starboard Elevon is level.
-I now have Auto launch angle at 26°, throttle is still 55% = 1550μs. 
+Port elevon is now 6mm down and starboard elevon is level.
+I now have auto launch angle at 26°, throttle is still 55% = 1550μs. 
 I could reduce this to 1500μs or 1400μs, as my Vector climb rate performance is still very high.
-Both camera trays have been tested(Caddex loris only adding an extra 15g)with these settings
+Both camera trays have been tested, Caddex loris only adding an extra 15g.
+Now running INAV 5.1.0 soon to be 6.0. 
+
+I’m now working on a thrust stand and a motor change is next on the list.
+As always, I’m on the lookout for a Caddx Loris replacement.
+A 4K camera all in one, Thumb Pro is close however it is too wide! :(
+
+
 
