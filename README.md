@@ -88,6 +88,9 @@ https://youtu.be/opmcstnDswc
 # Update 20/02/2023
 I have installed M3x6x0.5mm brass washers between the motor and the mount, 2 washers at the top and 1 washer either side, no washer on the bottom. 
 This results in the motor now angled down by 3.6°
+
+![](Vector/Images/MotorShims3.6°.png) 
+
 This has improved cruise control and less drag as less the elevon is now required to counter act the excessive pitch up I encountered at higher throttle.
 Port Elevon is now 6mm down and Starboard Elevon is level.
 I now have Auto launch angle at 26°, throttle is still 55% = 1550μs. 
